@@ -16,9 +16,9 @@ __hobby:__ サイクリング/お絵描き/生き物飼育/写真撮影
 |   🤔   | Language | Framework |
 |:---|:---:|:---:|
 |わかる | Japanese | |
-|まあまあ | python, html, css, scss, java, English | ruby on rails, wordpress, numpy |
-|なんとなく | ruby, javascript, typescript | jquery, bootstrap4 |
-|かじっただけ | php, octave | laravel, apache tomcat |
+|まあまあ | Python, HTML, SCSS, Java, English | Ruby on Rails, Wordpress, Numpy |
+|なんとなく | Ruby, Javascript, Typescript | jQuery, Bootstrap4 |
+|かじっただけ | PHP, Octave | Laravel, Apache Tomcat |
 
 
 ### Database
@@ -26,13 +26,14 @@ MySQL, PostgreSQL, SQLite
   
 ### Machine learning
 __Tools__: Annaconda, JupyterLab, Google Colaboratory   
-__Library__: skit-learn, matplotlib, seaborn, word2vec, doc2vec, janome, pytorch, keras  
+__Library__: Skit-learn, Matplotlib, Seaborn, Word2vec, Doc2vec, Janome, Pytorch, Keras  
 * [udemy-chatbot](https://github.com/tsukumon/udemy-chatbot)  
 * [loan-prediction](https://github.com/tsukumon/loan-prediction)  
 * [signate-poisonous-mushroom](https://github.com/tsukumon/signate-poisonous-mushroom)    
 
 ### Web application
-__Tools__: VirtualBox, Vagrant, Eclipse, VSCode    
+__Tools__: VirtualBox, Vagrant, Eclipse, VSCode   
+__Library__: Ruby on Rails, Apache Tomcat  
 __Server__: nginx, Apache  
 * [Anisnap](https://github.com/tsukumon/anisnap)  
 * [Product Management](https://github.com/tsukumon/tomwebapp)  

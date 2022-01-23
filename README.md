@@ -28,7 +28,7 @@ MySQL, PostgreSQL, SQLite
 __Tools__: Annaconda, JupyterLab  
 __Library__: skit-learn, matplotlib, seaborn, word2vec, doc2vec, janome, pytorch, keras  
 * [udemy-chatbot](https://github.com/tsukumon/udemy-chatbot)  
-* [lean-prediction](https://github.com/tsukumon/loan-prediction)  
+* [loan-prediction](https://github.com/tsukumon/loan-prediction)  
 * [signate-poisonous-mushroom](https://github.com/tsukumon/signate-poisonous-mushroom)    
 
 ## Achievement

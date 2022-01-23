@@ -13,7 +13,7 @@ __hobby:__ サイクリング/お絵描き/生き物飼育/写真撮影
 </p>  
   
 ### programing
-|   🤔   | language | framework |
+|   🤔   | Language | Framework |
 |:---|:---:|:---:|
 |わかる | Japanese | |
 |まあまあ | python, html, css, scss, java, English | ruby on rails, wordpress, numpy |

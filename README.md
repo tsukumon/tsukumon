@@ -55,7 +55,7 @@ __Library__: skit-learn, matplotlib, seaborn, word2vec, doc2vec, janome, pytorch
 * 筑波大学 第12回 科学の芽 高校生部門
 * 沖縄女子短期大学 産学官地域連携キャリア教育による地域の未来を考えるフォーラム 登壇
 * OWASP Attack & Defense in Okinawa #2
-* iLect DL4E DeepLearning基礎講座
+* iLect DL4E DeepLearning基礎講座 2021
 * LAIME -機械学習勉強コミュニティ-
 
 ## Link  

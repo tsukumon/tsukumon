@@ -1,13 +1,19 @@
-# About
+## About
 web開発や機械学習をしているしがない学生   
 好きなものは自転車・お絵描き・生き物・写真撮影とか  
 
 
-# Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukumon&layout=compact
-)](https://github.com/anuraghazra/github-readme-stats)
+## Status
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsukumon&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tsukumon&theme=onedark&show_icons=ture" />
+</p>  
 
-# Link  
+## Achievement
+
+
+## Link  
+機械学習（主に自然言語処理）の備忘録ブログ  
 https://whim-nlp.com/  
 
 ### SNS

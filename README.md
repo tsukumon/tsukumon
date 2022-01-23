@@ -33,10 +33,11 @@ __Library__: Skit-learn, Matplotlib, Seaborn, Word2vec, Doc2vec, Janome, Pytorch
 
 ### Web application
 __Tools__: VirtualBox, Vagrant, Eclipse, VSCode   
-__Library__: Ruby on Rails, Apache Tomcat  
-__Server__: nginx, Apache  
+__Library__: Ruby on Rails, Apache Tomcat, Wordpress  
+__Server__: nginx, Apache, LiteSpeed  
 * [Anisnap](https://github.com/tsukumon/anisnap)  
 * [Product Management](https://github.com/tsukumon/tomwebapp)  
+* [気まぐれNLP](https://whim-nlp.com/)
 
 ## Achievement
 ### Award

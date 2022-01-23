@@ -1,6 +1,8 @@
 ## About
-web開発や機械学習をしているしがない学生   
-好きなものは自転車・お絵描き・生き物・写真撮影とか  
+web開発や機械学習が好きなしがない学生。
+
+__location:__ Okinawa(Japan)  
+__hobby:__ サイクリング/お絵描き/生き物飼育/写真撮影  
   
 
 ## Status
@@ -23,8 +25,11 @@ web開発や機械学習をしているしがない学生
 MySQL, PostgreSQL, SQLite
   
 ### machine learning
-Tools: Annaconda, JupyterLab  
-Library: word2vec, doc2vec, janome, pytorch, keras
+__Tools__: Annaconda, JupyterLab  
+__Library__: skit-learn, matplotlib, seaborn, word2vec, doc2vec, janome, pytorch, keras  
+* [udemy-chatbot](https://github.com/tsukumon/udemy-chatbot)  
+* [lean-prediction](https://github.com/tsukumon/loan-prediction)  
+* [signate-poisonous-mushroom](https://github.com/tsukumon/signate-poisonous-mushroom)    
 
 ## Achievement
 ### Award

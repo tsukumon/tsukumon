@@ -25,7 +25,7 @@ __hobby:__ サイクリング/お絵描き/生き物飼育/写真撮影
 MySQL, PostgreSQL, SQLite
   
 ### machine learning
-__Tools__: Annaconda, JupyterLab  
+__Tools__: Annaconda, JupyterLab, Google Colaboratory   
 __Library__: skit-learn, matplotlib, seaborn, word2vec, doc2vec, janome, pytorch, keras  
 * [udemy-chatbot](https://github.com/tsukumon/udemy-chatbot)  
 * [loan-prediction](https://github.com/tsukumon/loan-prediction)  

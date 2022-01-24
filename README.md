@@ -52,12 +52,12 @@ __Server__: nginx, Apache, LiteSpeed
 * 経済産業省認定　情報セキュリティマネジメント試験
 * 日本情報処理検定協会　文書デザイン検定1級
 * Microsoft Office Specialist Excel 2016
-* LPI-JAPAN認定　OSS-DB Silver
-* Oracle認定　Java Silver SE 11
+* LPI-JAPAN  OSS-DB Silver
+* Oracle  Java Silver SE 11
 * サーティファイ主催 Javaプログラミング検定 2級
-* CompTIA認定　Network+
-* CompTIA認定　Security+
-* LPI-JAPAN認定　LinuC レベル1　認定プロフェッショナル
+* CompTIA  Network+
+* CompTIA  Security+
+* LPI-JAPAN  LinuC レベル1
 
 ### Event
 * 筑波大学 第12回 科学の芽

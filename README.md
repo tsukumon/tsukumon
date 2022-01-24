@@ -18,7 +18,7 @@ __hobby:__ サイクリング/お絵描き/生き物飼育/写真撮影
 |わかる | Japanese | |
 |まあまあ | Python, HTML, SCSS, Java, English | Ruby on Rails, Wordpress, Numpy |
 |なんとなく | Ruby, Javascript, Typescript | jQuery, Bootstrap4 |
-|かじっただけ | PHP, Octave | Laravel, Apache Tomcat |
+|かじっただけ | PHP, Octave | React, Laravel, Apache Tomcat |
 
 
 ### Database

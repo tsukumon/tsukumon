@@ -60,7 +60,7 @@ __Server__: nginx, Apache, LiteSpeed
 * LPI-JAPAN認定　LinuC レベル1　認定プロフェッショナル
 
 ### Event
-* 筑波大学 第12回 科学の芽 高校生部門
+* 筑波大学 第12回 科学の芽
 * 沖縄女子短期大学 産学官地域連携キャリア教育による地域の未来を考えるフォーラム 登壇
 * OWASP Attack & Defense in Okinawa #2
 * iLect DL4E DeepLearning基礎講座 2021

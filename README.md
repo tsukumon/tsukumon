@@ -76,7 +76,7 @@ https://whim-nlp.com/
 |Twitter |[None](https://twitter.com/) |
 |Pixiv |[None](https://www.pixiv.net/users/) |
 |Lofter |[None](https://lofter.com/) |
-|LeetCode |[Nonn](https://leetcode.com/) |  
+|LeetCode |[None](https://leetcode.com/) |  
 <!--
 **tsukumon/tsukumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -73,10 +73,10 @@ https://whim-nlp.com/
 #### SNS Account
 | Service | Account |
 |:---|:---:|
-|Twitter |[tkm_cham](https://twitter.com/tkm_cham) |
-|Pixiv |[ikasemuy](https://www.pixiv.net/users/56776052) |
-|Lofter |[iam404error](https://iam404error.lofter.com/) |
-|LeetCode |[tsukumon](https://leetcode.com/tsukumon/) |  
+|Twitter |[None](https://twitter.com/) |
+|Pixiv |[None](https://www.pixiv.net/users/) |
+|Lofter |[None](https://lofter.com/) |
+|LeetCode |[Nonn](https://leetcode.com/) |  
 <!--
 **tsukumon/tsukumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

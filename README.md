@@ -1,3 +1,5 @@
+！[]（https://komarev.com/ghpvc/?username=tsukumon&color=brightgreen&label=PROFILE+VIEWS）
+
 ## About
 web開発や機械学習が好きなしがない学生。毎日草を生やしたい。  
 

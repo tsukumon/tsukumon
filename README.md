@@ -1,8 +1,4 @@
 ## About
-  <a href="https://github.com/tsukumon/tsukumon/">
-    <img src="https://komarev.com/ghpvc/?username=tsukumon" alt="tsukumon" />
-  </a>    
-  
 web開発や機械学習が好きなしがない学生。毎日草を生やしたい。  
 
 __location:__ Okinawa(Japan)  
